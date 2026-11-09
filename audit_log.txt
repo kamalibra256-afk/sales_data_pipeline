@@ -1,0 +1,1 @@
+[2026-11-09 08:53:04] Excel sync: Extracted 3 manual rows into sales_data.csv
